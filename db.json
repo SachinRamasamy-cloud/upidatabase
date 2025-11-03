@@ -4,6 +4,7 @@
       "id": "1",
       "name": "User1",
       "number": "1002",
+      "password": "123",
       "balance": 39149,
       "transactions": [
         {
@@ -188,6 +189,7 @@
       "id": "2",
       "name": "User2",
       "number": "1003",
+      "password": "1223",
       "balance": 100032.00000000003,
       "transactions": [
         {
@@ -339,6 +341,7 @@
     {
       "id": "9999",
       "name": "Admin",
+      "password": "123",
       "number": "9999",
       "balance": 52,
       "transactions": [
@@ -381,6 +384,7 @@
       "id": "1760789919463",
       "name": "yw",
       "number": "1001",
+      "password": "123",
       "balance": 89571,
       "transactions": [
         {
@@ -814,6 +818,7 @@
     {
       "id": "1760790723648",
       "name": "5454",
+      "password": "123",
       "number": "7878",
       "balance": 980007.9,
       "transactions": [
@@ -870,6 +875,7 @@
     {
       "id": "1760792549932",
       "name": "ioo",
+      "password": "123",
       "number": "8520",
       "balance": 9919,
       "transactions": [
@@ -1017,6 +1023,39 @@
           "to": "0000",
           "from": "8520",
           "date": "2025-10-25T13:10:20.104Z"
+        }
+      ]
+    },
+    {
+      "id": "1762089661792",
+      "name": "drf",
+      "password": "123",
+      "number": "203010",
+      "balance": 0,
+      "transactions": []
+    },
+    {
+      "id": "1762188581602",
+      "name": "sachin",
+      "password": "1230",
+      "number": "1254",
+      "balance": 2010000,
+      "transactions": [
+        {
+          "id": 1762189343919,
+          "type": "add",
+          "amount": 10000,
+          "to": "sachin",
+          "from": "Deposited",
+          "date": "2025-11-03T17:02:23.918Z"
+        },
+        {
+          "id": 1762189369209,
+          "type": "add",
+          "amount": 2000000,
+          "to": "sachin",
+          "from": "Deposited",
+          "date": "2025-11-03T17:02:49.209Z"
         }
       ]
     }
